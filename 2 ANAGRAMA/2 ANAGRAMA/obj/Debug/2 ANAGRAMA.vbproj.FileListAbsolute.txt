@@ -1,0 +1,17 @@
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\bin\Debug\2 ANAGRAMA.exe.config
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\bin\Debug\2 ANAGRAMA.exe
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\bin\Debug\2 ANAGRAMA.pdb
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\bin\Debug\2 ANAGRAMA.xml
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.vbproj.AssemblyReference.cache
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\MainWindow.g.vb
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\Application.g.vb
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA_MarkupCompile.cache
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA_MarkupCompile.lref
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\MainWindow.baml
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.g.resources
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\_2_ANAGRAMA.Resources.resources
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.vbproj.GenerateResource.cache
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.vbproj.CoreCompileInputs.cache
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.exe
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.xml
+C:\Users\juanv\source\repos\2 ANAGRAMA\2 ANAGRAMA\obj\Debug\2 ANAGRAMA.pdb
