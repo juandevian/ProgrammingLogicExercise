@@ -1,0 +1,11 @@
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\bin\Debug\1 FIZZ BUZZ.exe.config
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\bin\Debug\1 FIZZ BUZZ.exe
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\bin\Debug\1 FIZZ BUZZ.pdb
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\bin\Debug\1 FIZZ BUZZ.xml
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\1_FizzBuzz.vbproj.AssemblyReference.cache
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\_1_FIZZ_BUZZ.Resources.resources
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\1_FizzBuzz.vbproj.GenerateResource.cache
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\1_FizzBuzz.vbproj.CoreCompileInputs.cache
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\1 FIZZ BUZZ.exe
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\1 FIZZ BUZZ.xml
+C:\Users\juanv\source\repos\ProgrammingLogicExercise\1 FIZZ BUZZ\1 FIZZ BUZZ\obj\Debug\1 FIZZ BUZZ.pdb
