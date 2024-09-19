@@ -1,0 +1,10 @@
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\bin\Debug\5 ÁREA DE UN POLÍGONO.exe.config
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\bin\Debug\5 ÁREA DE UN POLÍGONO.exe
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\bin\Debug\5 ÁREA DE UN POLÍGONO.pdb
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\bin\Debug\5 ÁREA DE UN POLÍGONO.xml
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\obj\Debug\_5_ÁREA_DE_UN_POLÍGONO.Resources.resources
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\obj\Debug\5 ÁREA DE UN POLÍGONO.vbproj.GenerateResource.cache
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\obj\Debug\5 ÁREA DE UN POLÍGONO.vbproj.CoreCompileInputs.cache
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\obj\Debug\5 ÁREA DE UN POLÍGONO.exe
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\obj\Debug\5 ÁREA DE UN POLÍGONO.xml
+C:\Users\juanv\source\repos\5 ÁREA DE UN POLÍGONO\5 ÁREA DE UN POLÍGONO\obj\Debug\5 ÁREA DE UN POLÍGONO.pdb

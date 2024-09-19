@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42312: Los comentarios de documentación XML deben preceder a las declaraciones de miembros o tipos
+dotnet_diagnostic.BC42312.severity = suggestion
