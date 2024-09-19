@@ -1,0 +1,11 @@
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\bin\Debug\4 ES UN NUMERO PRIMO.exe.config
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\bin\Debug\4 ES UN NUMERO PRIMO.exe
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\bin\Debug\4 ES UN NUMERO PRIMO.pdb
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\bin\Debug\4 ES UN NUMERO PRIMO.xml
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\4 ES UN NUMERO PRIMO.vbproj.AssemblyReference.cache
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\_4_ES_UN_NUMERO_PRIMO.Resources.resources
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\4 ES UN NUMERO PRIMO.vbproj.GenerateResource.cache
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\4 ES UN NUMERO PRIMO.vbproj.CoreCompileInputs.cache
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\4 ES UN NUMERO PRIMO.exe
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\4 ES UN NUMERO PRIMO.xml
+C:\Users\juanv\source\repos\4 ES UN NUMERO PRIMO\4 ES UN NUMERO PRIMO\obj\Debug\4 ES UN NUMERO PRIMO.pdb
